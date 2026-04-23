@@ -1,0 +1,10 @@
+.env/
+env/
+.idea/
+.vs/
+.vscode/
+
+*.exe
+*.dll
+bin/
+obj/
